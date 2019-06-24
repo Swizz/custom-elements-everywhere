@@ -14,6 +14,7 @@
     "install-vue": "cd libraries/vue && npm ci",
     "install-dojo": "cd libraries/dojo && npm ci",
     "install-hybrids": "cd libraries/hybrids && npm ci",
+    "install-hyperapp": "cd libraries/hyperapp && npm ci",
     "install-hyperhtml": "cd libraries/hyperhtml && npm ci",
     "install-litelement": "cd libraries/litelement && npm ci",
     "install-dio": "cd libraries/dio && npm ci",

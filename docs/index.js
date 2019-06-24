@@ -25,6 +25,7 @@ const libraryMap = {
   dio: 'DIO',
   dojo: "Dojo",
   hybrids: "hybrids",
+  hyperapp: "hyperapp",
 	hyperhtml: "hyperHTML",
 	litelement: "Lit Element",
   mithril: "Mithril",

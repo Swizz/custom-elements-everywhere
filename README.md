@@ -29,6 +29,7 @@ npm start
 - [Dio](https://github.com/webcomponents/custom-elements-everywhere/tree/master/libraries/dio)
 - [Dojo](https://github.com/webcomponents/custom-elements-everywhere/tree/master/libraries/dojo)
 - [Hybrids](https://github.com/webcomponents/custom-elements-everywhere/tree/master/libraries/hybrids)
+- [Hyperapp](https://github.com/webcomponents/custom-elements-everywhere/tree/master/libraries/hyperapp)
 - [HyperHTML](https://github.com/webcomponents/custom-elements-everywhere/tree/master/libraries/hyperhtml)
 - [Mithril](https://github.com/webcomponents/custom-elements-everywhere/tree/master/libraries/mithril)
 - [Polymer](https://github.com/webcomponents/custom-elements-everywhere/tree/master/libraries/polymer)
@@ -136,7 +137,7 @@ run that folder's build command.
   to a custom element using properties.
 - The library/framework should be able to listen to DOM events from a custom
   element. These DOM events could use any casing style.
-  
+
 ## How does the site get deployed/maintained?
 
 Once a library is added to the repo, we use [Renovate](https://renovatebot.com/)
